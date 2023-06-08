@@ -1,0 +1,30 @@
+/**
+ * Do not edit directly
+ * Generated on Thu, 08 Jun 2023 10:16:50 GMT
+ */
+
+:root {
+  --sd-global-red: #de391d;
+  --sd-global-blue: #1fe03b;
+  --sd-global-pink: #e00e8b;
+  --sd-global-skyblue: #8bd8ed;
+  --sd-global-h1: 60;
+  --sd-global-h2: 48;
+  --sd-global-h3: 30;
+  --sd-global-h4: 20;
+  --sd-global-h5: 10;
+  --sd-global-a: 4;
+  --sd-global-b: 8;
+  --sd-global-c: 16;
+  --sd-global-d: 64;
+  --sd-global-head: inter;
+  --sd-global-body: robot;
+  --sd-checkbox-white: #;
+  --sd-checkbox-red: #f6123c;
+  --sd-checkbox-blue: #0edff6;
+  --sd-checkbox-nor: 4px;
+  --sd-checkbox-df: 6px;
+  --sd-checkbox-wdt1: 28px;
+  --sd-checkbox-ht1: 24px;
+  --sd-checkbox-l: 20px;
+}

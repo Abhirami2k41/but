@@ -1,3 +1,5 @@
+@import './build/css/_variables.css';
+
 .App {
   text-align: center;
 }
@@ -14,7 +16,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #0b0911;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -35,4 +37,18 @@
   to {
     transform: rotate(360deg);
   }
+}
+.custombutton {
+  background-color: var(--sd-global-red); 
+  font-size: var(--sd-global-h4);
+}
+.custombuttonn{
+  background-color: var(--sd-global-blue);
+  font-size: var(--sd-global-h4);
+}
+.customCheckbox{
+  accent-color: var(--sd-global-pink);
+}
+.radios{
+  accent-color: var(--sd-global-pink);
 }
